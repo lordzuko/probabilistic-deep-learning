@@ -1,10 +1,10 @@
-# probabilistic-deep-learning
+# Probabilistic Deep Learning
 
 Code for various probabilistic deep learning models I am learning.
 The repository contains lessons, links, notebook demo and template code for future use.
 
 
-- [probabilistic-deep-learning](#probabilistic-deep-learning)
+- [Probabilistic Deep Learning](#probabilistic-deep-learning)
   - [Bayesian Deep Learning](#bayesian-deep-learning)
   - [Deep Probabilistic Models](#deep-probabilistic-models)
   - [Advanced Approximate Inference](#advanced-approximate-inference)
